@@ -1,0 +1,239 @@
+{
+  "SsrCarousel": {
+    "description": "Auto imported from node_modules/vue-ssr-carousel/index.js"
+  },
+  "ButtonLink": {
+    "description": "Auto imported from components/ButtonLink.vue"
+  },
+  "ButtonLinkTwo": {
+    "description": "Auto imported from components/ButtonLinkTwo.vue"
+  },
+  "Footer": {
+    "description": "Auto imported from components/Footer.vue"
+  },
+  "Header": {
+    "description": "Auto imported from components/Header.vue"
+  },
+  "AllBlocksBanner": {
+    "description": "Auto imported from components/AllBlocks/banner.vue"
+  },
+  "AllBlocksBlogs": {
+    "description": "Auto imported from components/AllBlocks/Blogs.vue"
+  },
+  "AllBlocksColorFull": {
+    "description": "Auto imported from components/AllBlocks/ColorFull.vue"
+  },
+  "AllBlocksDescription": {
+    "description": "Auto imported from components/AllBlocks/Description.vue"
+  },
+  "AllBlocksDescriptionTwo": {
+    "description": "Auto imported from components/AllBlocks/DescriptionTwo.vue"
+  },
+  "AllBlocksDownload": {
+    "description": "Auto imported from components/AllBlocks/Download.vue"
+  },
+  "AllBlocksEngraving": {
+    "description": "Auto imported from components/AllBlocks/Engraving.vue"
+  },
+  "AllBlocksHightlight": {
+    "description": "Auto imported from components/AllBlocks/Hightlight.vue"
+  },
+  "AllBlocksImages": {
+    "description": "Auto imported from components/AllBlocks/Images.vue"
+  },
+  "AllBlocksMap": {
+    "description": "Auto imported from components/AllBlocks/Map.vue"
+  },
+  "AllBlocksMassTimes": {
+    "description": "Auto imported from components/AllBlocks/MassTimes.vue"
+  },
+  "AllBlocksPublication": {
+    "description": "Auto imported from components/AllBlocks/Publication.vue"
+  },
+  "AllBlocksTextBlock": {
+    "description": "Auto imported from components/AllBlocks/TextBlock.vue"
+  },
+  "AgendaInfo": {
+    "description": "Auto imported from components/Agenda/Info.vue"
+  },
+  "AgendaNav": {
+    "description": "Auto imported from components/Agenda/Nav.vue"
+  },
+  "AgendaDetailsGallary": {
+    "description": "Auto imported from components/AgendaDetails/Gallary.vue"
+  },
+  "AgendaDetailsImages": {
+    "description": "Auto imported from components/AgendaDetails/Images.vue"
+  },
+  "AgendaDetailsInfo": {
+    "description": "Auto imported from components/AgendaDetails/Info.vue"
+  },
+  "AgendaDetailsText": {
+    "description": "Auto imported from components/AgendaDetails/Text.vue"
+  },
+  "ArchivesAccordions": {
+    "description": "Auto imported from components/Archives/Accordions.vue"
+  },
+  "ArchivesBanner": {
+    "description": "Auto imported from components/Archives/banner.vue"
+  },
+  "ArchivesDocument": {
+    "description": "Auto imported from components/Archives/Document.vue"
+  },
+  "ArchivesEvents": {
+    "description": "Auto imported from components/Archives/Events.vue"
+  },
+  "ArchivesInfoArea": {
+    "description": "Auto imported from components/Archives/InfoArea.vue"
+  },
+  "ArchivesMission": {
+    "description": "Auto imported from components/Archives/Mission.vue"
+  },
+  "ArchivesNav": {
+    "description": "Auto imported from components/Archives/Nav.vue"
+  },
+  "CommonAgendaBanner": {
+    "description": "Auto imported from components/Common/AgendaBanner.vue"
+  },
+  "CommonBlog": {
+    "description": "Auto imported from components/Common/Blog.vue"
+  },
+  "CommonNewsBanner": {
+    "description": "Auto imported from components/Common/NewsBanner.vue"
+  },
+  "ConservationBanner": {
+    "description": "Auto imported from components/Conservation/banner.vue"
+  },
+  "ConservationInfoArea": {
+    "description": "Auto imported from components/Conservation/InfoArea.vue"
+  },
+  "ConservationMainArea": {
+    "description": "Auto imported from components/Conservation/MainArea.vue"
+  },
+  "ConservationMission": {
+    "description": "Auto imported from components/Conservation/Mission.vue"
+  },
+  "ConservationNav": {
+    "description": "Auto imported from components/Conservation/Nav.vue"
+  },
+  "ConservationProjectMainArea": {
+    "description": "Auto imported from components/ConservationProject/MainArea.vue"
+  },
+  "ConservationProjectNav": {
+    "description": "Auto imported from components/ConservationProject/Nav.vue"
+  },
+  "FoundationAims": {
+    "description": "Auto imported from components/Foundation/Aims.vue"
+  },
+  "FoundationBanner": {
+    "description": "Auto imported from components/Foundation/banner.vue"
+  },
+  "FoundationGallary": {
+    "description": "Auto imported from components/Foundation/Gallary.vue"
+  },
+  "FoundationInfoArea": {
+    "description": "Auto imported from components/Foundation/InfoArea.vue"
+  },
+  "FoundationMission": {
+    "description": "Auto imported from components/Foundation/Mission.vue"
+  },
+  "FoundationNav": {
+    "description": "Auto imported from components/Foundation/Nav.vue"
+  },
+  "FoundationProject": {
+    "description": "Auto imported from components/Foundation/Project.vue"
+  },
+  "FoundationHaritageMainArea": {
+    "description": "Auto imported from components/FoundationHaritage/MainArea.vue"
+  },
+  "FoundationHaritageNav": {
+    "description": "Auto imported from components/FoundationHaritage/Nav.vue"
+  },
+  "HistoryBanner": {
+    "description": "Auto imported from components/History/banner.vue"
+  },
+  "HistoryInfoBox": {
+    "description": "Auto imported from components/History/InfoBox.vue"
+  },
+  "HistoryMap": {
+    "description": "Auto imported from components/History/Map.vue"
+  },
+  "HistoryMission": {
+    "description": "Auto imported from components/History/Mission.vue"
+  },
+  "HistoryPlaces": {
+    "description": "Auto imported from components/History/Places.vue"
+  },
+  "HomeAgenda": {
+    "description": "Auto imported from components/Home/Agenda.vue"
+  },
+  "HomeAroundTheAbby": {
+    "description": "Auto imported from components/Home/AroundTheAbby.vue"
+  },
+  "HomeBanner": {
+    "description": "Auto imported from components/Home/Banner.vue"
+  },
+  "HomeCommunity": {
+    "description": "Auto imported from components/Home/Community.vue"
+  },
+  "HomeFeaturedEvent": {
+    "description": "Auto imported from components/Home/FeaturedEvent.vue"
+  },
+  "HomeGallary": {
+    "description": "Auto imported from components/Home/Gallary.vue"
+  },
+  "HomeHistory": {
+    "description": "Auto imported from components/Home/History.vue"
+  },
+  "HomeMassTimes": {
+    "description": "Auto imported from components/Home/MassTimes.vue"
+  },
+  "HomeNews": {
+    "description": "Auto imported from components/Home/News.vue"
+  },
+  "HomeNewsLetter": {
+    "description": "Auto imported from components/Home/NewsLetter.vue"
+  },
+  "HomeWelcomeAbbay": {
+    "description": "Auto imported from components/Home/WelcomeAbbay.vue"
+  },
+  "HomiliesBanner": {
+    "description": "Auto imported from components/Homilies/banner.vue"
+  },
+  "HomiliesMainArea": {
+    "description": "Auto imported from components/Homilies/mainArea.vue"
+  },
+  "HomiliesNav": {
+    "description": "Auto imported from components/Homilies/Nav.vue"
+  },
+  "HomiliesDetailsMainArea": {
+    "description": "Auto imported from components/HomiliesDetails/mainArea.vue"
+  },
+  "NewsInfoArea": {
+    "description": "Auto imported from components/News/InfoArea.vue"
+  },
+  "NewsMainArea": {
+    "description": "Auto imported from components/News/MainArea.vue"
+  },
+  "NewsDetailsMainArea": {
+    "description": "Auto imported from components/NewsDetails/MainArea.vue"
+  },
+  "SidebarMenuHover": {
+    "description": "Auto imported from components/Sidebar/MenuHover.vue"
+  },
+  "HomePrepareVisitAcces": {
+    "description": "Auto imported from components/Home/PrepareVisit/Acces.vue"
+  },
+  "HomePrepareVisitContact": {
+    "description": "Auto imported from components/Home/PrepareVisit/Contact.vue"
+  },
+  "HomePrepareVisitHorires": {
+    "description": "Auto imported from components/Home/PrepareVisit/Horires.vue"
+  },
+  "HomePrepareVisit": {
+    "description": "Auto imported from components/Home/PrepareVisit/index.vue"
+  },
+  "HomePrepareVisitTarifs": {
+    "description": "Auto imported from components/Home/PrepareVisit/Tarifs.vue"
+  }
+}

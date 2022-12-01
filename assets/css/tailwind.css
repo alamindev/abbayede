@@ -1,0 +1,149 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+ 
+ 
+@layer base {
+  @font-face {
+      font-family: "Lancelot Pro";
+      src: url("../fonts/lancelot-pro.otf");
+      font-weight: 400;
+    }  
+    .main-path{
+      clip-path: polygon(80% 0px, 100% 0px, 100% 100%, 7.56% 100%, 0px 87.52%, 0px 1%);
+    }
+    .path{
+      clip-path: polygon(71.75% 0px, 100% 35.95%, 100% 100%, 100% 100%, 0px 100%, 0px 1%);
+    }
+    .path-two{
+      clip-path: polygon(70% 0px, 100% 35%, 100% 100%, 100% 100%, 35px 100.00%, 0px 68%, 0px 1%);
+    }
+    .path-three{
+      clip-path: polygon(94.82% 11px, 100% 35%, 100% 100%, 100% 100%, 66px 98.76%, 0px 68%, 0px 1%);
+    }
+    .path-four{
+      clip-path: polygon(93.02% 12px, 100% 14.87%, 100% 100%, 100% 100%, 42px 100%, 1px 83.85%, 0px 1%);
+    }
+    .path-five{
+      clip-path: polygon(94% 6px, 100% 19.37%, 100% 75.91%, 95.98% 100%, 5.29% 100%, 4px 75.09%, 8px 27.57%, 5.73% 12px);
+    }
+}
+
+@layer utilities {
+  .tab-active {
+    @apply after:absolute after:w-full after:left-0 after:bottom-0 after:h-[1px] after:bg-brand-red
+  }
+
+  .active-filter p{
+    @apply border-b border-brand-red text-brand-red
+  }
+}
+
+.accordion-item-enter-active, .accordion-item-leave-active {
+  will-change: height;
+  transition: height 0.2s ease;
+}
+
+.accordion-item-enter, .accordion-item-leave-to {
+  height: 0 !important;
+}
+
+.image-slider .ssr-carousel-dots{
+  display: none !important;
+  position: absolute;
+  bottom: 30px;
+  justify-content: center;
+  width: 100%;
+  margin-top: 0 !important;
+}
+@media (min-width: 640px) {
+  .image-slider .ssr-carousel-dots{
+    display: flex !important;
+  }
+}
+
+.image-slider .ssr-carousel-dot-icon { 
+	border-radius: 0 !important;
+	border: 1px solid #fff !important;  
+	transform: rotate(45deg) !important;
+  background-color: transparent !important;
+}
+.image-slider :not([disabled]) >  .ssr-carousel-dot-icon{
+  opacity: 1 !important;
+    background-color: #fff !important;
+}
+
+.project-slider .ssr-carousel-dots{
+  display: none !important;
+  position: absolute;
+  bottom:  -50px;
+  justify-content: center;
+  width: 100%;
+  margin-top: 0 !important;
+}
+@media (min-width: 640px) {
+  .project-slider .ssr-carousel-dots{
+    display: flex !important;
+  }
+}
+
+.project-slider .ssr-carousel-dot-icon { 
+	border-radius: 0 !important;
+	border: 1px solid #D6C9A5 !important;  
+	transform: rotate(45deg) !important;
+  background-color: transparent !important;
+}
+.project-slider :not([disabled]) >  .ssr-carousel-dot-icon{
+  opacity: 1 !important;
+    background-color: #D6C9A5 !important;
+}
+
+
+.nav::-webkit-scrollbar {
+  display: none;
+}
+
+.nav ::-moz-scrollbar {
+  display: none;
+ 
+}
+ 
+.nav {
+  overflow: auto;
+  -ms-overflow-style: none;
+  scrollbar-color: transparent transparent; /*just hides the scrollbar for firefox */
+}
+ /* .gallary .masonry-column{
+     display: grid !important;
+  }  */
+ 
+
+.testimonial .swiper-slide-active img{ 
+        width: 64px !important;
+        height: 64px !important;
+        border: 10px solid white !important; 
+        outline: 1px solid rgba(17, 103, 165, 0.1) !important; 
+        box-sizing: content-box;
+    }
+ @media (min-width: 768px) {
+    .testimonial .swiper-slide-active img{ 
+        width: 95px !important;
+        height: 95px !important; 
+    }
+ }
+ .testimonial .swiper-wrapper{ 
+        align-items:  center;
+    }
+ 
+  
+
+.accordion-item-enter-active, .accordion-item-leave-active {
+  will-change: height;
+  transition: height 0.2s ease;
+}
+.accordion-item-enter, .accordion-item-leave-to {
+  height: 0 !important;
+}
+.ssr-carousel-mask:not(.no-mask){
+    overflow: visible !important;
+}

@@ -1,0 +1,107 @@
+[
+  {
+    "name": "agenda",
+    "path": "/agenda",
+    "component": "D:\\\\Client Work 2022\\\\Novembar\\\\webdesign_oi\\\\pages\\\\agenda.vue",
+    "chunkName": "pages/agenda",
+    "_name": "_2fa8d247"
+  },
+  {
+    "name": "agenda-details",
+    "path": "/agenda-details",
+    "component": "D:\\\\Client Work 2022\\\\Novembar\\\\webdesign_oi\\\\pages\\\\agenda-details.vue",
+    "chunkName": "pages/agenda-details",
+    "_name": "_02cdc63c"
+  },
+  {
+    "name": "all-blocks",
+    "path": "/all-blocks",
+    "component": "D:\\\\Client Work 2022\\\\Novembar\\\\webdesign_oi\\\\pages\\\\all-blocks.vue",
+    "chunkName": "pages/all-blocks",
+    "_name": "_cf1dfe26"
+  },
+  {
+    "name": "archives",
+    "path": "/archives",
+    "component": "D:\\\\Client Work 2022\\\\Novembar\\\\webdesign_oi\\\\pages\\\\archives.vue",
+    "chunkName": "pages/archives",
+    "_name": "_af86d228"
+  },
+  {
+    "name": "conservation",
+    "path": "/conservation",
+    "component": "D:\\\\Client Work 2022\\\\Novembar\\\\webdesign_oi\\\\pages\\\\conservation.vue",
+    "chunkName": "pages/conservation",
+    "_name": "_2aaab8d8"
+  },
+  {
+    "name": "conservation-project",
+    "path": "/conservation-project",
+    "component": "D:\\\\Client Work 2022\\\\Novembar\\\\webdesign_oi\\\\pages\\\\conservation-project.vue",
+    "chunkName": "pages/conservation-project",
+    "_name": "_246da124"
+  },
+  {
+    "name": "foundation",
+    "path": "/foundation",
+    "component": "D:\\\\Client Work 2022\\\\Novembar\\\\webdesign_oi\\\\pages\\\\foundation.vue",
+    "chunkName": "pages/foundation",
+    "_name": "_94ccf424"
+  },
+  {
+    "name": "foundation-heritage",
+    "path": "/foundation-heritage",
+    "component": "D:\\\\Client Work 2022\\\\Novembar\\\\webdesign_oi\\\\pages\\\\foundation-heritage.vue",
+    "chunkName": "pages/foundation-heritage",
+    "_name": "_2c88372e"
+  },
+  {
+    "name": "history",
+    "path": "/history",
+    "component": "D:\\\\Client Work 2022\\\\Novembar\\\\webdesign_oi\\\\pages\\\\history.vue",
+    "chunkName": "pages/history",
+    "_name": "_9b9d102e"
+  },
+  {
+    "name": "homilies",
+    "path": "/homilies",
+    "component": "D:\\\\Client Work 2022\\\\Novembar\\\\webdesign_oi\\\\pages\\\\homilies.vue",
+    "chunkName": "pages/homilies",
+    "_name": "_73013a6e"
+  },
+  {
+    "name": "homilies-details",
+    "path": "/homilies-details",
+    "component": "D:\\\\Client Work 2022\\\\Novembar\\\\webdesign_oi\\\\pages\\\\homilies-details.vue",
+    "chunkName": "pages/homilies-details",
+    "_name": "_2cd4b4be"
+  },
+  {
+    "name": "news",
+    "path": "/news",
+    "component": "D:\\\\Client Work 2022\\\\Novembar\\\\webdesign_oi\\\\pages\\\\news.vue",
+    "chunkName": "pages/news",
+    "_name": "_f9a6db64"
+  },
+  {
+    "name": "news-details",
+    "path": "/news-details",
+    "component": "D:\\\\Client Work 2022\\\\Novembar\\\\webdesign_oi\\\\pages\\\\news-details.vue",
+    "chunkName": "pages/news-details",
+    "_name": "_f71ee17a"
+  },
+  {
+    "name": "page-shop",
+    "path": "/page-shop",
+    "component": "D:\\\\Client Work 2022\\\\Novembar\\\\webdesign_oi\\\\pages\\\\page-shop.vue",
+    "chunkName": "pages/page-shop",
+    "_name": "_1ebd78ee"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\Client Work 2022\\\\Novembar\\\\webdesign_oi\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_ba1c0f32"
+  }
+]
